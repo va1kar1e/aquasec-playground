@@ -1,4 +1,4 @@
-# aquasec-playground
+# Aquasec Playground
 
 Playground for Testing Aquasec Cloud Security APIs
 
